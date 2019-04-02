@@ -14,7 +14,7 @@ sudo apt-get update && sudo apt-get install telegraf
 sudo service telegraf start
 ```
 
-## Editing
+## Editing the config
 ```
 sudo service telegraf stop
 rm /etc/telegraf/telegraf.conf
